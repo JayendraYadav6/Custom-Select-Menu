@@ -2,10 +2,7 @@
 Basically a custom select menu bar so that we can select any social media platform of our choice, created with HTML, CSS, and JavaScript.
 
 ## Demo
-Check out the live demo [here]().
-
-## Screenshots
-Include screenshots or GIFs of your project.
+Check out the live demo [https://jayendrayadav6.github.io/Custom-Select-Menu/].
 
 ## Technologies Used
 - HTML
