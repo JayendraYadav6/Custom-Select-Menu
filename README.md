@@ -1,13 +1,8 @@
 # Custom-Select-Menu
-Basically a custom select menu bar so that we can select any social media platform of our choice
-
-# Custom Select Menu Bar
-
-## Description
-A custom select menu bar created with HTML, CSS, and JavaScript.
+Basically a custom select menu bar so that we can select any social media platform of our choice, created with HTML, CSS, and JavaScript.
 
 ## Demo
-Check out the live demo [here](link_to_github_pages).
+Check out the live demo [here]().
 
 ## Screenshots
 Include screenshots or GIFs of your project.
